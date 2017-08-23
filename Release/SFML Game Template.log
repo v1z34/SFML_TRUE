@@ -1,0 +1,29 @@
+﻿Построение начато 23.08.2017 17:08:43.
+     1>Проект "C:\SFML Game Template SFML 2.0 Release\SFML Game Template\SFML Game Template.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\SFML-2.0\include" /Zi /nologo /W1 /WX- /O2 /Oi /Oy- /GL /D SFML_STATIC /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Audio.cpp Basic.cpp Building.cpp Debugger.cpp Game.cpp main.cpp Test_Commit_Class.cpp Texture.cpp
+         Audio.cpp
+         Basic.cpp
+         Building.cpp
+         Debugger.cpp
+         Game.cpp
+         main.cpp
+         Test_Commit_Class.cpp
+         Texture.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\SFML Game Template SFML 2.0 Release\Release\SFML Game Template.exe" /NOLOGO /LIBPATH:"C:\SFML-2.0\lib" "sfml-graphics-s.lib" "sfml-window-s.lib" "sfml-system-s.lib" "sfml-audio-s.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\SFML Game Template SFML 2.0 Release\Release\SFML Game Template.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\SFML Game Template SFML 2.0 Release\Release\SFML Game Template.lib" /MACHINE:X86 /SAFESEH Release\Audio.obj
+         Release\Basic.obj
+         Release\Building.obj
+         Release\Debugger.obj
+         Release\Game.obj
+         Release\main.obj
+         Release\Test_Commit_Class.obj
+         Release\Texture.obj
+         Создание кода
+         Создание кода завершено
+         SFML Game Template.vcxproj -> C:\SFML Game Template SFML 2.0 Release\Release\SFML Game Template.exe
+     1>Построение проекта "C:\SFML Game Template SFML 2.0 Release\SFML Game Template\SFML Game Template.vcxproj" завершено (целевые объекты Rebuild).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:09.63
